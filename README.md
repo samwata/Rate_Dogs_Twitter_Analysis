@@ -6,7 +6,7 @@ I will we were provided the following three datasets.
 
 1. Enhanced Twitter Archive
 
-The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which was used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, the tweets have filtered with ratings only (there are 2356).
+The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets. One column the archive does contain though: each tweet's text, which was used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced."
 
 
 2. Additional Data via the Twitter API
